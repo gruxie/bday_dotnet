@@ -1,0 +1,14 @@
+C:\Users\grhodes\birthday_dotnet\birthday_dotnet\bin\Debug\net8.0\birthday_dotnet.exe
+C:\Users\grhodes\birthday_dotnet\birthday_dotnet\bin\Debug\net8.0\birthday_dotnet.deps.json
+C:\Users\grhodes\birthday_dotnet\birthday_dotnet\bin\Debug\net8.0\birthday_dotnet.runtimeconfig.json
+C:\Users\grhodes\birthday_dotnet\birthday_dotnet\bin\Debug\net8.0\birthday_dotnet.dll
+C:\Users\grhodes\birthday_dotnet\birthday_dotnet\bin\Debug\net8.0\birthday_dotnet.pdb
+C:\Users\grhodes\birthday_dotnet\birthday_dotnet\obj\Debug\net8.0\birthday_dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grhodes\birthday_dotnet\birthday_dotnet\obj\Debug\net8.0\birthday_dotnet.AssemblyInfoInputs.cache
+C:\Users\grhodes\birthday_dotnet\birthday_dotnet\obj\Debug\net8.0\birthday_dotnet.AssemblyInfo.cs
+C:\Users\grhodes\birthday_dotnet\birthday_dotnet\obj\Debug\net8.0\birthday_dotnet.csproj.CoreCompileInputs.cache
+C:\Users\grhodes\birthday_dotnet\birthday_dotnet\obj\Debug\net8.0\birthday_dotnet.dll
+C:\Users\grhodes\birthday_dotnet\birthday_dotnet\obj\Debug\net8.0\refint\birthday_dotnet.dll
+C:\Users\grhodes\birthday_dotnet\birthday_dotnet\obj\Debug\net8.0\birthday_dotnet.pdb
+C:\Users\grhodes\birthday_dotnet\birthday_dotnet\obj\Debug\net8.0\birthday_dotnet.genruntimeconfig.cache
+C:\Users\grhodes\birthday_dotnet\birthday_dotnet\obj\Debug\net8.0\ref\birthday_dotnet.dll
